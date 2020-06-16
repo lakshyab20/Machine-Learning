@@ -1,6 +1,7 @@
 <h1> Classification</h1><br>
 <b>Classification</b> is the problem of identifying to which of a set of categories (sub-populations) a new observation belongs,<br> on the basis of a training set of data containing observations (or instances) whose category membership is known.
 <br>
+<br>
 Different types of Classification Algorithm: <br>
 <b> 1): </b> Decision Tree <br>
 <b> 2): </b> Naive Bayes <br>
