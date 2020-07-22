@@ -3,4 +3,4 @@ Machine learning is an application of Artificial Intelligence (AI) that provides
 1) Regression
 2) Classification
 3) Clustering
-4) Recommendation Systems
+4) Recommendation Systems.
